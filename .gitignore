@@ -1,0 +1,7 @@
+.cache/
+.env
+.streamlit/secrets.toml
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+backups/

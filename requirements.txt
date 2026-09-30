@@ -1,0 +1,5 @@
+streamlit>=1.57
+mysql-connector-python>=9.0
+pandas>=2.2
+requests>=2.32
+ipykernel>=6.30
